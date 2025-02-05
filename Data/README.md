@@ -20,14 +20,15 @@ Post Malone has stops in Major U.S. cities like Las Vegas, Dallas, New York, and
 This tab provides a lyric analysis for songs, featuring: <br>
 <br> Word occurrences within song lines,
 <br> Thematic classification of each line,
-<br> Sentiment analysis, labeling lines as Positive or Negative, and
+<br> Sentiment analysis, labeling lines as Positive or Negative,
 <br> Metadata such as artist hometowns and lyric line numbers.
 
 ## 5. Line_Categorized:
 This tab presents classification and sentiment analysis for songs at the line level, including: <br>
-<br> Thematic categorization of each line, and
+<br> Thematic categorization of each line,
 <br> Metadata such as stanza and line numbers.
-<br> This structured breakdown provides insights into thematic trends and sentiment distribution within the lyrics.
+
+<br> <br> This structured breakdown provides insights into thematic trends and sentiment distribution within the lyrics.
 
 
 
