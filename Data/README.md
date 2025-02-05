@@ -1,4 +1,4 @@
-The dataset featured spans five tabs:
+The featured dataset spans five tabs:
 
 ## 1. Themes: 
 This analysis categorizes themes and definitions, focusing on Love and Relationships.
