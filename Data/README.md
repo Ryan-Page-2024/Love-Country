@@ -17,16 +17,17 @@ Luke Combs performances cover cities like Fort lauderdale, Boston, and Miramar B
 Post Malone has stops in Major U.S. cities like Las Vegas, Dallas, New York, and Miami.
 
 ## 4. Lyrics_in_Context:
-This tab presents a lyric analysis for songs, including:
-Specific Words and their occurrences in song lines,
-Each line is classified into thematic categories,
-Sentiment analysis labels all instances as Positive or Negative,
-The dataset also includes metadata like artist hometowns and line numbers in the lyrics.
+This tab provides a lyric analysis for songs, featuring:
+<br> Word occurrences within song lines,
+<br> Thematic classification of each line,
+<br> Sentiment analysis, labeling lines as Positive or Negative, and
+<br> Metadata such as artist hometowns and lyric line numbers.
 
 ## 5. Line_Categorized:
-This tab provides classification and sentiment analysis for songs by line, including:
-Lines categorized under themes, and Metadata like stanza and line number.
-This structured breakdown helps in understanding thematic trends and sentiment distribution.
+This tab presents classification and sentiment analysis for songs at the line level, including:
+<br> Thematic categorization of each line, and
+<br> Metadata such as stanza and line numbers.
+<br> This structured breakdown provides insights into thematic trends and sentiment distribution within the lyrics.
 
 
 
