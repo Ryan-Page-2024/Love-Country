@@ -25,6 +25,21 @@ This image presents a visual representation of artists and their song collaborat
 <br>
 
 # File Name: Overview
+This slide outlines the Key Findings from this analysis:
+- **Featured Songs**: These songs illustrate how Country Music transcends eras, uniting listeners through enduring themes of love and commitment. Blending Country classics with fresh perspectives, the genre remains relevant and emotionally compelling for each new generation. This section highlighted historic songs such as Johnny Cash’s “Ring of Fire” (1963) alongside modern hits like “Nobody But You” (2018) by Blake Shelton and Gwen Stefani. 
+
+
+- **Featured Artists**: A spotlight was put on iconic performers like Luke Combs and Post Malone, whose influence continues to shape the genre and help millions of listeners heal from a broken heart. A visualization of their 2025 tour schedule reveals their reach across North America and into Canada, connecting with fans through live performances. Whether you’re planning to catch a show in Texas or Toronto, you now have a guide for that! 
+
+
+- **Sentiment**: The Love & Relationships playlist skews slightly negative (57%) but still contains a significant number of positive moments (43%). Despite the dominance of negative lines in certain songs (“Whiskey Glasses”, “Thinkin’ Bout Me”), there are tracks brimming with optimism (“Brand New Man”). Interestingly, love appears in both positive and negative contexts, highlighting the genre’s nuanced portrayal of relationships – where regret is balanced against hope.
+
+- **Song Transitions**: Transitions within the featured songs illustrate how Country Music captures the emotional ebb and flow of relationships. Many songs shift between themes, reinforcing how emotions evolve throughout a song’s storytelling. These transitions add depth to narratives, showing how emotions aren’t 
+static and make each song’s progression a key part of its impact. 
+
+<br>
+
+# File Name: Overview
 This overview outlines key components of the analysis:
 - **Featured Songs**: Highlights 20 Country Songs spanning multiple decades, analyzing their release dates, artists, and lyrical themes related to Love and Relationships
 
