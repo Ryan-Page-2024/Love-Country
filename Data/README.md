@@ -28,7 +28,7 @@ This tab presents classification and sentiment analysis for songs at the line le
 <br> Thematic categorization of each line,
 <br> Metadata such as stanza and line numbers.
 
-<br> <br> This structured breakdown provides insights into thematic trends and sentiment distribution within the lyrics.
+<br> This structured breakdown provides insights into thematic trends and sentiment distribution within the lyrics.
 
 
 
