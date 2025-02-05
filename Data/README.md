@@ -2,7 +2,7 @@ The dataset featured here spans five tabs:
 
 ## 1. Themes: 
 This analysis categorizes themes and definitions, focusing on Love and Relationships.
-Law and Justice, as well as Animals are themes not present in the playlist.
+<br> Law and Justice, as well as Animals are themes not present in the playlist.
 
 ## 2. Featured Songs: 
 This tab presents an analysis of song lyrics, focusing on Love and Relationships.
