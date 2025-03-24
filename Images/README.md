@@ -13,7 +13,7 @@ This image presents a visual representation of artists and their song collaborat
 - **Brooks & Dunn**
 - **Conway Twitty**
 
-## Sing Song Contributors (1 Song)
+## Song Contributors (1 Song)
 - **Johnny Cash**
 - **John Denver**
 - **Reba McEntire**
