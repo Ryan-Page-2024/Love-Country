@@ -1,5 +1,5 @@
 # File Name: Artists
-This image presents a visual representation of artists and their song collaborations to a specific playlist or analysis
+This image presents a visual representation of artists and their song collaborations to the playlist
 
 ## Top Contributors (3 Songs)
 - **Luke Combs**
